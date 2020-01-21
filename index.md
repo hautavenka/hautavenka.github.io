@@ -1,37 +1,23 @@
-## Welcome to GitHub Pages
+## Welcome to a preview of the Hautavenka site.
 
-You can use the [editor on GitHub](https://github.com/tendermario/hautvenka/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+This will be the landing page for whatever Karl and Kristi want this site to be for.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Some Ideas
 
-### Markdown
+1. A blog about Precious the Toad.
+2. Research paper publishings.
+3. A place to store latest music recordings.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+<iframe width="100%" height="120" src="https://www.mixcloud.com/widget/iframe/?hide_cover=1&feed=%2Fgoatboydjk%2Fwhere-am-i%2F" frameborder="0" ></iframe>
+<iframe width="100%" height="120" src="https://www.mixcloud.com/widget/iframe/?hide_cover=1&feed=%2Fgoatboydjk%2Ftrainwreck%2F" frameborder="0" ></iframe>
+<iframe width="100%" height="120" src="https://www.mixcloud.com/widget/iframe/?hide_cover=1&feed=%2Fgoatboydjk%2Fspace-madness%2F" frameborder="0" ></iframe>
 
-```markdown
-Syntax highlighted code block
+4. A place to list off your skills as a slick landing page.
+5. A url to place on your business card.
+6. Have a subdomain for karl.hautavenka.com and a subdomain for kristi.hautavenka.com.
+7. You have to come up with this one.
+8. A place to share pictures you took that isn't owned by Facebook.
 
-# Header 1
-## Header 2
-### Header 3
+Cheers,
+Mario
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/tendermario/hautvenka/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
